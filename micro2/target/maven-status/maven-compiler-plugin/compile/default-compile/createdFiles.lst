@@ -1,0 +1,6 @@
+com\example\micro2\Controller\EvenementRestApi.class
+com\example\micro2\entity\Evenement.class
+com\example\micro2\Micro2Application.class
+com\example\micro2\Service\EvenementServiceImpl.class
+com\example\micro2\Repository\EvenementRepository.class
+com\example\micro2\Service\EvenementService.class
